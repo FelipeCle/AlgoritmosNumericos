@@ -1,1 +1,1 @@
-# AlgoritmosNumericos
+# Projetos da disciplina
